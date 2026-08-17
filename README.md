@@ -1,2 +1,6 @@
 # ukg-pro-utlities
-some extensions to add semi-automation and full-automations features to Kronos because UKG can't, apparently
+UKG pulled in $3.6 billion (with a B) USD in revenue in 2022 yet they cannot afford to furnish their product with such creature comforts like a search bar.
+
+A word of warning: I've only tested these on my machine.
+
+
